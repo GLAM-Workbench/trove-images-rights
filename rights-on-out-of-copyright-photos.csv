@@ -1,140 +1,160 @@
 id,full_name,Free/CC Public Domain,Free/CC BY,Free/CC0,Free/RS NKC,Free with conditions/CC BY-SA,Free with conditions/CC BY-NC,Free with conditions/CC BY-NC-ND,Free with conditions/CC BY-NC-SA,Free with conditions/InC-EDU,Restricted/RS InC,Restricted/RS CNE,Restricted/RS UND
-VPWLH,4th/19th Prince of Wales'  Light Horse Regiment Unit / 4th/19th Prince of Wales'  Light Horse Regiment Unit. History Room.,0,0,0,0,0,0,0,2,0,0,0,0
 ADFA,"Academy Library, UNSW Canberra.",0,0,0,1,0,0,0,1,0,0,0,0
+SAA,Art Gallery of South Australia / Art Gallery of South Australia. Art Gallery of South Australia Research Library.,0,0,0,1,0,0,0,1,0,0,0,0
 NACU:E,Australian Catholic University. / Australian Catholic University Library.,0,0,0,1,0,0,0,2,0,0,0,0
 VER,Australian Council for Educational Research / Australian Council for Educational Research. Cunningham Library (ACER).,0,0,0,0,0,0,0,1,0,0,0,0
-AIAS,Australian Institute of Aboriginal and Torres Strait Islander Studies. / AIATSIS Collections.,0,0,0,1,0,0,0,1,0,0,0,0
+AIAS,Australian Institute of Aboriginal and Torres Strait Islander Studies. / AIATSIS Collections.,0,0,0,1,0,0,0,2,0,0,0,0
 SL,Australian Lutheran College / Australian Lutheran College. Lohe Memorial Library.,0,0,0,1,0,0,0,1,0,0,0,0
 NAMU,Australian Museum. / Australian Museum Research Library.,0,0,0,1,0,0,0,1,0,0,0,0
 ANU,Australian National University. / Australian National University Library.,0,0,0,1,0,0,0,1,0,0,0,0
-ANU:HITL,Australian National University. / Heritage in the Limelight.,0,2,0,0,0,0,0,0,0,0,0,0
+ANU:IR,Australian National University. / Australian National University Library. / Australian National University: Institutional Repository.,0,2,0,0,0,0,0,0,0,0,0,0
+ANU:HITL,Australian National University. / Heritage in the Limelight.,0,1,0,0,0,0,0,0,0,0,0,0
 APC:WC,Australian Paralympic Committee / Australian Paralympic Committee. Images on Wikimedia Commons.,0,0,0,0,1,0,0,0,0,0,0,0
-VBLM,B-24 Liberator Memorial Restoration Australia Inc.,0,0,0,0,0,0,0,1,0,0,0,0
+VBAH,Ballarat Heritage Services.,0,0,0,0,0,0,0,17,0,0,0,0
+VGH,Barwon Health / Barwon Health. Barwon Health Library Service.,0,0,0,0,0,0,0,1,0,0,0,0
 XBATCH,Batchelor Institute of Indigenous Tertiary Education.,0,0,0,1,0,0,0,1,0,0,0,0
+XBATCH:B,Batchelor Institute of Indigenous Tertiary Education. / Batchelor Joint Use Library.,0,0,0,1,0,0,0,1,0,0,0,0
 VBAY,Bayside Library Service / Bayside Library Service. Bayside Library Service.,0,0,0,1,0,0,0,3,0,0,0,0
+TBMHC,Beaconsfield Mine and Heritage Centre.,0,1,0,0,0,0,0,0,0,0,0,0
+VRDN,Bolton Clarke Library Services.,0,0,0,0,0,0,0,34,0,0,0,0
 QBON,Bond University. / John and Alison Kearney Library .,0,0,0,1,0,0,0,1,0,0,0,0
-VBRIM,Brimbank Libraries.,0,0,0,0,0,0,0,1,0,0,0,0
+VECA,Campaspe Regional Library / Campaspe Regional Library. Echuca Library.,0,0,0,0,0,0,0,1,0,0,0,0
 ACIT,Canberra Institute of Technology / Canberra Institute of Technology. Reid Library.,0,0,0,1,0,0,0,1,0,0,0,0
+VCCLC,Casey - Cardinia Library Corporation / Casey - Cardinia Library Corporation. Cranbourne Library.,0,0,0,0,0,0,0,2,0,0,0,0
+VBALL,Central Highlands Libraries / Central Highlands Libraries. Ballarat Library.,0,0,0,0,0,0,0,1,0,0,0,0
 XNTU,Charles Darwin University. / Casuarina Campus Library.,0,0,0,1,0,0,0,1,0,0,0,0
 NCSU:A,Charles Sturt University. / Albury-Wodonga Campus Library.,0,0,0,1,0,0,0,1,0,0,0,0
 VMT,Chisholm Institute.,0,0,0,0,0,0,0,1,0,0,0,0
-VCIHF,Churchill Island Heritage Farm.,0,0,0,0,0,0,0,11,0,0,0,0
 VBOR,City of Boroondara Library Service.,0,0,0,0,0,0,0,2,0,0,0,0
+VDGV,City of Greater Dandenong Libraries / City of Greater Dandenong Libraries. Dandenong Library.,0,0,0,0,0,0,0,1,0,0,0,0
+NSCA,City of Sydney Archives.,323,5158,0,0,0,0,0,0,0,0,0,0
 NCLL,Clarence Regional Library / Clarence Regional Library. Clarence Regional Library Headquarters.,0,0,0,1,0,0,0,1,0,0,0,0
+NCHR,Coffs Collections.,0,4373,0,0,0,0,0,0,0,0,0,0
 VCGL,Corangamite Regional Library Corporation / Corangamite Regional Library Corporation. Corangamite Regional Library Corporation Library.,0,0,0,1,0,0,0,1,0,0,0,0
-VCHM,Creswick Museum.,0,0,0,0,0,0,0,1,0,0,0,0
 WCU,Curtin University. / Curtin University Library.,0,0,0,1,0,0,0,1,0,0,0,0
 VPRE,Darebin Libraries / Darebin Libraries. Preston Library.,0,0,0,0,0,0,0,1,0,0,0,0
-VDU,Deakin University. / Deakin University Library.,0,0,0,1,0,0,0,1,0,0,0,0
-VDSTO,Defence Science and Technology Group. / DST Group Research Information Services  - Melbourne.,0,0,0,0,0,0,0,1,0,0,0,0
-VEGS,East Gippsland Shire Library.,0,0,0,0,0,0,0,1,0,0,0,0
+VDU,Deakin University. / Deakin University Library.,4,0,0,1,0,0,0,1,0,0,0,0
+VDU:IR,Deakin University. / Deakin University Library. / Deakin University: Institutional Repository.,7,0,0,0,0,0,0,0,0,0,0,0
+VDSTO,Defence Science and Technology Group. / DSTG Research Data and Information.,0,0,0,0,0,0,0,1,0,0,0,0
 WCX,Edith Cowan University. / Edith Cowan University Library.,0,0,0,1,0,0,0,1,0,0,0,0
-SEPR,Eyre Pensinsula Railway Preservation Society.,0,0,0,107,0,0,0,0,0,0,0,0
+VELTH,Eltham District Historical Society.,0,0,0,0,0,0,0,22,0,0,0,0
+SEPR,Eyre Pensinsula Railway Preservation Society.,0,0,0,224,0,0,0,0,0,0,0,0
 NFDC:S,Federal Court of Australia. / Library & Information Services  (South Australia).,0,0,0,1,0,0,0,1,0,0,0,0
 NFDC:V,Federal Court of Australia. / Library & Information Services (Victoria).,0,0,0,0,0,0,0,1,0,0,0,0
 NFDC:W,Federal Court of Australia. / Library & Information Services (Western Australia).,0,0,0,1,0,0,0,1,0,0,0,0
 VFED,Federation University Australia Library.,0,0,0,0,0,0,0,1,0,0,0,0
-VFED:A,Federation University Australia Library. / Art Collection.,0,0,0,0,0,0,0,1,0,0,0,0
 VFED:G,Federation University Australia Library. / Federation University Australia - Gippsland campus library.,0,0,0,1,0,0,0,2,0,0,0,0
-YUF,Flickr.,1201,848,1,0,678,45,615,392,2,0,0,0
+VFED:HC,Federation University Australia Library. / Federation University Historical Collection.,0,0,0,0,0,0,0,28,0,0,0,0
+YUF,Flickr.,1263,847,1,0,778,64,703,398,2,0,0,0
 SFU,Flinders University. / Flinders University Central Library.,0,0,0,1,0,0,0,1,0,0,0,0
-VGCC,Geelong Cycling Club.,0,0,0,0,0,0,0,3,0,0,0,0
-VGRSL,Geelong RSL Sub Branch.,0,0,0,0,0,0,0,3,0,0,0,0
+VFRK,Frankston Library Service / Frankston Library Service. Frankston City Libraries .,0,0,0,0,0,0,0,1,0,0,0,0
+VKER,Gannawarra Library Service / Gannawarra Library Service. Sir John Gorton Library - Kerang.,0,0,0,0,0,0,0,2,0,0,0,0
+VGCC,Geelong Cycling Club.,0,0,0,0,0,0,0,2,0,0,0,0
 VGEE,Geelong Regional Library Corporation / Geelong Regional Library Corporation. Library Administration.,0,0,0,1,0,0,0,1,0,0,0,0
 VGEHS,Glen Eira Historical Society.,0,0,0,0,0,0,0,1,0,0,0,0
-VCAU,Glen Eira Libraries / Glen Eira Libraries. Carnegie Library and Community Centre .,0,0,0,0,0,0,0,1,0,0,0,0
-VGLEN,Glenelg Shire Council / Glenelg Shire Council. Glenelg Libraries.,0,0,0,0,0,0,0,1,0,0,0,0
+VGLEN,Glenelg Shire Council / Glenelg Shire Council. Glenelg Libraries.,0,0,0,0,0,0,0,2,0,0,0,0
 VNCG,Goldfields Library Corporation.,0,0,0,0,0,0,0,1,0,0,0,0
-VGBV,Goulburn Ovens Institute of TAFE / Goulburn Ovens Institute of TAFE. Goulburn Ovens Institute of TAFE - Library AND La Trobe University - Shepparton Campus Library.,0,0,0,0,0,0,0,1,0,0,0,0
+VGBV,Goulburn Ovens Institute of TAFE / Goulburn Ovens Institute of TAFE. Goulburn Ovens Institute of TAFE Library.,0,0,0,0,0,0,0,1,0,0,0,0
+VGVH,Goulburn Valley Libraries / Goulburn Valley Libraries. Shepparton City Library.,0,0,0,0,0,0,0,1,0,0,0,0
 QGU,Griffith University. / Griffith University Library.,0,0,0,1,0,0,0,1,0,0,0,0
-VHOB,Hobsons Bay Libraries.,0,0,0,0,0,0,0,2,0,0,0,0
-VHOM,Holmesglen Institute of TAFE. / Holmesglen Library.,0,0,0,0,0,0,0,1,0,0,0,0
-VHUM,Hume Libraries / Hume Libraries. The Age Library.,0,0,0,0,0,0,0,1,0,0,0,0
+VNEA,High Country Library Network.,0,0,0,0,0,0,0,1,0,0,0,0
+VHOB,Hobsons Bay Libraries.,0,0,0,0,0,0,0,1,0,0,0,0
+VBBM,Indigo Shire Council. / Beechworth Burke Museum.,0,0,0,0,0,0,0,1,0,0,0,0
 NINV,Inverell Shire Council / Inverell Shire Council. Inverell Shire Public Library.,0,0,0,1,0,0,0,1,0,0,0,0
 QJCU,James Cook University. / Eddie Koiki Mabo Library.,0,0,0,1,0,0,0,1,0,0,0,0
-VJTL,Jesuit Theological College / Jesuit Theological College. Dalton McCaughey Library.,0,0,0,1,0,0,0,1,0,0,0,0
-VKHI,Kew Historical Society.,0,0,0,0,0,0,0,1,0,0,0,0
+QJCU:IR,James Cook University. / Eddie Koiki Mabo Library. / Townsville Campus Library: Institutional Repository.,0,0,0,0,0,0,3,0,0,0,0,0
+VKHI,Kew Historical Society.,0,0,0,0,0,0,0,26,0,0,0,0
 VKING,Kingston Information and Library Service. / Kingston Information & Library Service.,0,0,0,0,0,0,0,2,0,0,0,0
 VBX,"La Trobe University. / La Trobe University Library. / Bendigo Campus, Heyward Library.",0,0,0,1,0,0,0,2,0,0,0,0
 VLU,"La Trobe University. / La Trobe University Library. / Borchardt Library, Melbourne (Bundoora) Campus.",0,0,0,1,0,0,0,1,0,0,0,0
 VSCT,La Trobe University. / Sunraysia Institute of TAFE AND La Trobe University - Mildura Campus Library.,0,0,0,1,0,0,0,1,0,0,0,0
 VLTV,Latrobe City Library / Latrobe City Library. Morwell Public Library.,0,0,0,0,0,0,0,1,0,0,0,0
 APLS,Libraries ACT.,0,0,0,1,0,0,0,1,0,0,0,0
-TSL,Libraries Tasmania.,0,0,0,1,0,0,0,2,0,0,0,0
-NLRL,Lithgow Library Learning Centre.,0,0,0,0,0,0,0,1,0,0,0,0
-NLIVL,Liverpool City Library. / Liverpool City Library.,0,0,0,0,0,0,0,1,0,0,0,0
+TSL,Libraries Tasmania.,0,0,0,1,0,0,0,1,0,0,0,0
+XNLS,Library & Archives NT.,0,1421,0,1,0,0,0,1,0,0,0,0
+XNLS:GC,Library & Archives NT. / General Collection.,0,0,0,1,0,0,0,1,0,0,0,0
+XNLS:GS,Library & Archives NT. / Offsite Storage.,0,0,0,1,0,0,0,1,0,0,0,0
 NMQU,Macquarie University. / Macquarie University Library.,0,0,0,1,0,0,0,1,0,0,0,0
-VFPL,Maribyrnong Library Service.,0,0,0,0,0,0,0,2,0,0,0,0
 VMC,Mazenod College / Mazenod College. Mazenod College Library.,0,0,0,0,0,0,0,1,0,0,0,0
 VNMT,Melbourne Polytechnic.,0,0,0,0,0,0,0,1,0,0,0,0
 VMLT:CHC,Melton City Council Library Service. / Community Heritage Collection.,0,0,0,0,0,15,0,0,0,0,0,0
+VMLT,Melton City Council Library Service. / Melton Library & Learning Hub.,0,0,0,1,0,0,0,2,0,0,0,0
+VMIL,Mildura Rural City Council Library Service / Mildura Rural City Council Library Service. Mildura Library.,0,0,0,0,0,0,0,1,0,0,0,0
 VMON,Monash Public Library Service / Monash Public Library Service. Monash Public Library Service.,0,0,0,0,0,0,0,1,0,0,0,0
 VMOU,Monash University. / Monash University Library.,0,0,0,1,0,0,0,2,0,0,0,0
 VMVL,Moonee Valley Libraries / Moonee Valley Libraries. Moonee Valley Libraries.,0,0,0,0,0,0,0,1,0,0,0,0
-VMOR,Moreland City Libraries / Moreland City Libraries. Moreland City Library.,0,0,0,0,0,0,0,1,0,0,0,0
+VMOR,Moreland City Libraries / Moreland City Libraries. Coburg Library.,0,0,0,0,0,0,0,1,0,0,0,0
+VPEN,Mornington Peninsula Library / Mornington Peninsula Library. Mornington Peninsula Library Service.,0,0,0,0,0,0,0,1,0,0,0,0
 WMDU,Murdoch University. / Murdoch University Library.,0,0,0,1,0,0,0,1,0,0,0,0
-VNMU:I,Museum Victoria. / Museum Victoria Collections.,0,33082,0,0,0,0,0,0,0,0,0,0
-VNMU,Museum Victoria. / Museums Victoria Library.,0,0,0,1,0,0,0,1,0,0,0,0
+VNMU:I,Museums Victoria. / Museums Victoria Collections.,0,33388,0,0,0,0,0,0,0,0,0,0
+VNMU,Museums Victoria. / Museums Victoria Library.,0,0,0,1,0,0,0,1,0,0,0,0
 XNTA,Museums and Art Galleries of the Northern Territory / Museums and Art Galleries of the Northern Territory. Peter Spillett Library.,0,0,0,1,0,0,0,1,0,0,0,0
+VWGP,Myli - My Community Library / Myli - My Community Library. Regional Support Centre.,0,0,0,0,0,0,0,1,0,0,0,0
 XKATR,NT Schools Katherine Region.,0,0,0,1,0,0,0,1,0,0,0,0
+XKATR:KH,NT Schools Katherine Region. / Katherine High School / Library Resource Centre.,0,0,0,1,0,0,0,1,0,0,0,0
 ANG,National Gallery of Australia. / National Gallery of Australia Research Library.,0,0,0,1,0,0,0,1,0,0,0,0
 VNG,National Gallery of Victoria. / The Shaw Research Library.,0,0,0,1,0,0,0,1,0,0,0,0
-ANL,National Library of Australia.,0,0,0,2,0,0,0,2,0,1,0,0
-AMOA:C,National Museum of Australia. / National Museum of Australia Collection.,468,0,0,0,36,0,0,0,0,120,519,3
+ANL,National Library of Australia.,0,0,0,4,0,0,0,1,0,1,0,0
+AMOA:C,National Museum of Australia. / National Museum of Australia Collection.,347,0,0,0,26,0,0,0,0,117,393,1
 AMOA,National Museum of Australia. / National Museum of Australia Research Library.,0,0,0,1,0,0,0,1,0,0,0,0
-XNLS,Northern Territory Library .,0,2146,0,1,0,0,0,1,0,0,0,0
-VORH:M,Orbost Historical Society Museum. / Orbost & District Historical Society.,0,0,0,0,0,0,0,43,0,0,0,0
-VPID,Phillip Island and District Historical Society Inc.,0,0,0,0,0,0,0,443,0,0,0,0
-VPPLS,Port Phillip Library Service / Port Phillip Library Service. St Kilda Library.,0,0,0,0,0,0,0,1,0,0,0,0
+VNWM,National Wool Museum.,0,0,0,0,0,0,0,3,0,0,0,0
+VORH:M,Orbost Historical Society Museum. / Orbost & District Historical Society.,0,0,0,0,0,0,0,14,0,0,0,0
+NPEN,Penrith City Council / Penrith City Council. Penrith City Library.,0,0,0,1,0,0,0,1,0,0,0,0
+VPID,Phillip Island and District Historical Society Inc.,0,0,0,0,0,0,0,340,0,0,0,0
+VPMH,Port Melbourne Historical & Preservation Society.,0,0,0,0,0,0,0,58,0,0,0,0
+VPPLS,Port Phillip Library Service / Port Phillip Library Service. St Kilda Library.,0,0,0,0,0,0,0,2,0,0,0,0
 VPMEC,Prahran Mechanics' Institute Victorian History Library.,0,0,0,1,0,0,0,1,0,0,0,0
 VPRO,Public Record Office Victoria. / Victorian Archives Centre.,0,0,0,0,0,0,0,1,0,1,0,0
-VPRO:VC,Public Record Office Victoria. / Victorian Collections records.,0,0,0,0,0,0,0,1,0,0,0,0
 TQVM,Queen Victoria Museum and Art Gallery / Queen Victoria Museum and Art Gallery. Queen Victoria Museum and Art Gallery Library.,0,0,0,1,0,0,0,1,0,0,0,0
 QMU,Queensland Museum. / Queensland Museum Library.,0,0,0,1,0,0,0,1,0,0,0,0
-QUT:DC,Queensland University of Technology. / Digital Collections.,90,3,242,0,0,0,0,0,0,0,0,0
-QUT:KG,Queensland University of Technology. / Kelvin Grove Campus Library.,0,0,0,1,0,0,0,1,0,0,0,0
+QUT,Queensland University of Technology.,0,0,0,1,0,0,0,1,0,0,0,0
+QUT:DC,Queensland University of Technology. / Digital Collections.,100,3,405,0,0,0,0,0,0,0,0,0
 VIT,RMIT University. / RMIT University Library.,0,0,0,1,0,0,0,1,0,0,0,0
-NRTW,Richmond-Tweed Regional Library / Richmond-Tweed Regional Library. Library Headquarters.,0,0,0,1,0,0,0,1,0,0,0,0
-VRDH,Ringwood and District Historical Society.,0,0,0,0,0,0,0,26,0,0,0,0
+VRDH,Ringwood and District Historical Society.,0,0,0,0,0,0,0,4,0,0,0,0
 NRHS,Royal Australian Historical Society / Royal Australian Historical Society. RAHS Library.,0,0,0,1,0,0,0,1,0,0,0,0
 SRGS,Royal Geographical Society of South Australia / Royal Geographical Society of South Australia. RGSSA Library.,0,0,0,1,0,0,0,1,0,0,0,0
 VRHS,Royal Historical Society of Victoria / Royal Historical Society of Victoria. Royal Historical Society of Victoria.,0,0,0,1,0,0,0,2,0,0,0,0
 NSAG,Society of Australian Genealogists / Society of Australian Genealogists. SAG Library.,0,0,0,1,0,0,0,1,0,0,0,0
 VSWC,South West Institute of TAFE / South West Institute of TAFE. South West Institute of TAFE Library.,0,0,0,0,0,0,0,1,0,0,0,0
-VSHGM,Sovereign Hill Gold Museum / Sovereign Hill Gold Museum. Sovereign Hill Gold Museum Library.,2,0,0,0,0,0,0,0,0,0,0,0
+VSHGM,Sovereign Hill Gold Museum / Sovereign Hill Gold Museum. Sovereign Hill Gold Museum Library.,1,0,0,0,0,0,0,0,0,0,0,0
 VU:M,St Mary's College & Newman College Academic Centre Library.,0,0,0,1,0,0,0,1,0,0,0,0
-VSL,State Library Victoria.,2,0,0,1,0,0,0,2,0,1,0,0
+VSL,State Library Victoria.,1,0,0,2,0,0,0,2,0,1,0,0
 NSL,State Library of NSW.,0,0,0,1,0,0,0,2,0,0,0,0
-QSL,State Library of Queensland.,0,16,0,1,0,0,0,1,4,0,0,0
+QSL,State Library of Queensland.,0,16,0,1,0,0,0,1,0,0,0,0
 SSL,State Library of South Australia.,0,0,0,1,0,0,0,1,0,0,0,0
 WLB,State Library of Western Australia.,0,0,0,1,0,0,0,1,0,0,0,0
 VSC,Supreme Court of Victoria / Supreme Court of Victoria. The Law Library of Victoria.,0,0,0,0,0,0,0,2,0,0,0,0
-NSCL,Sutherland Shire Libraries.,0,0,0,1,0,0,0,1,0,0,0,0
-VSWT,Swinburne University of Technology. / Swinburne Library.,4,0,0,0,0,0,0,0,0,0,0,0
-VSWT:DC,Swinburne University of Technology. / Swinburne Library. / Swinburne Commons.,4,0,0,0,0,0,206,0,0,0,0,0
+VSWN,Swan Hill Regional Library Service / Swan Hill Regional Library Service. Swan Hill Library.,0,0,0,0,0,0,0,1,0,0,0,0
+VSWT:DC,Swinburne University of Technology. / Swinburne Library. / Swinburne Commons.,377,0,0,0,0,0,105,0,0,0,0,0
 VEGC,TAFE Gippsland. / TAFE Gippsland.,0,0,0,0,0,0,0,1,0,0,0,0
-VTAT,Tatura Historical Society / Tatura Historical Society. Tatura Irrigation & Wartime Camps Museum.,0,0,0,0,0,0,0,96,0,0,0,0
+VTAT,Tatura Historical Society / Tatura Historical Society. Tatura Irrigation & Wartime Camps Museum.,0,0,0,0,0,0,0,34,0,0,0,0
 VC,The Carmelite Library .,0,0,0,1,0,0,0,1,0,0,0,0
 VU:MHW,The University of Melbourne. / Melbourne History Workshop.,0,18,0,0,0,0,0,0,0,0,0,0
 VU,The University of Melbourne. / The University of Melbourne Library.,0,0,0,1,0,0,0,2,0,0,0,0
 QU,The University of Queensland. / University of Queensland Library.,0,0,0,1,0,0,0,1,0,0,0,0
 QU:IR,The University of Queensland. / University of Queensland Library. / University of Queensland: Institutional Repository.,0,0,0,0,0,0,14,0,0,0,0,0
 NU,The University of Sydney. / University of Sydney Library.,0,0,0,1,0,0,0,1,0,0,0,0
-ANL:DL,Trove Digital Library.,0,0,0,965,0,0,0,1,0,0,0,0
+VTFB,Thompson's Foundry Band Inc.,0,0,0,0,0,0,0,1,0,0,0,0
+ANL:DL,Trove Digital Library.,0,0,0,1274,0,0,0,1,0,0,0,0
 NUN,UNSW Sydney. / UNSW Library.,0,0,0,1,0,0,0,1,0,0,0,0
+VUAR,Uniting Church Archives (Vic).,0,0,0,0,0,0,0,1,0,0,0,0
 SUA,University of Adelaide. / Barr Smith Library.,0,0,0,1,0,0,0,1,0,0,0,0
 NNCU:A,University of Newcastle Library.,0,0,0,1,0,0,0,1,0,0,0,0
 WUND,University of Notre Dame Australia. / St Teresa's Library.,0,0,0,1,0,0,0,1,0,0,0,0
 SUSA,University of South Australia. / University of South Australia Library.,0,0,0,1,0,0,0,1,0,0,0,0
+TU,University of Tasmania.,0,0,0,1,0,0,0,1,0,0,0,0
 TU:OR,University of Tasmania. / Library Open Repository.,1,1,0,0,0,2,5,0,0,0,0,0
 WU,University of Western Australia. / University of Western Australia Library.,0,0,0,1,0,0,0,1,0,0,0,0
 NWU,University of Wollongong. / University of Wollongong Library.,0,0,0,1,0,0,0,1,0,0,0,0
+VPOL:M,Victoria Police Museum.,0,0,0,0,0,0,0,11,0,0,0,0
 VVUT,Victoria University. / Victoria University Library.,0,0,0,0,0,0,0,2,0,0,0,0
 VACL,Victorian Aboriginal Corporation for Languages.,0,0,0,1,0,0,0,3,0,0,0,0
 VDPI,Victorian Government Library Service. / Department of Environment and Primary Industries.,0,0,0,1,0,0,0,2,0,0,0,0
 VDOI,"Victorian Government Library Service. / Department of Transport, Planning and Local Infrastructure.",0,0,0,1,0,0,0,2,0,0,0,0
-VWARR,Warrnambool and District Historical Society Inc..,0,0,0,0,0,0,0,14,0,0,0,0
+VWARR,Warrnambool and District Historical Society Inc..,0,0,0,0,0,0,0,4,0,0,0,0
+NWAV,Waverley Council / Waverley Council. Waverley Library.,0,0,0,1,0,0,0,1,0,0,0,0
 WMU,Western Australian Museum / Western Australian Museum. Western Australian Museum Library.,0,0,0,1,0,0,0,1,0,0,0,0
-VWMR,Whitehorse Manningham Regional Library Corporation / Whitehorse Manningham Regional Library Corporation. Whitehorse Manningham Libraries.,0,0,0,1,0,0,0,2,0,0,0,0
+NUWS:W,Western Sydney University. / Penrith Campus Library.,0,0,0,1,0,0,0,1,0,0,0,0
+VWMR,Whitehorse Manningham Regional Library Corporation / Whitehorse Manningham Regional Library Corporation. Whitehorse Manningham Libraries.,0,0,0,0,0,0,0,1,0,0,0,0
+VWIM,Wimmera Regional Library Corporation. / Horsham Libraries.,0,0,0,0,0,0,0,1,0,0,0,0
 VWYN,Wyndham City Council Library Service / Wyndham City Council Library Service. Wyndham City Libraries.,0,0,0,0,0,0,0,1,0,0,0,0
-VHEI,Yarra Plenty Regional Library.,0,0,0,0,0,0,0,1,0,0,0,0
