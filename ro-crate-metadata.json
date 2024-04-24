@@ -1,0 +1,249 @@
+{
+    "@context": "https://w3id.org/ro/crate/1.1/context",
+    "@graph": [
+        {
+            "@id": "./",
+            "@type": "Dataset",
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "datePublished": "2024-04-24",
+            "description": "This dataset includes information about the application of licences and rights statements to images by Trove contributors.",
+            "distribution": {
+                "@id": "https://github.com/GLAM-Workbench/trove-images-rights-data/archive/refs/heads/main.zip"
+            },
+            "hasPart": [
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-images/blob/master/rights-statements-on-images.ipynb"
+                },
+                {
+                    "@id": "rights-on-images.csv"
+                },
+                {
+                    "@id": "rights-on-out-of-copyright-photos.csv"
+                },
+                {
+                    "@id": "rights-on-images-schema.json"
+                },
+                {
+                    "@id": "rights-on-out-of-copyright-photos-schema.json"
+                }
+            ],
+            "isBasedOn": {
+                "@id": "https://github.com/GLAM-Workbench/trove-images/"
+            },
+            "license": {
+                "@id": "https://spdx.org/licenses/MIT"
+            },
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-images/trove-images-rights-data/"
+            },
+            "name": "trove-images-rights-data",
+            "url": "https://github.com/GLAM-Workbench/trove-images-rights-data",
+            "workExample": []
+        },
+        {
+            "@id": "ro-crate-metadata.json",
+            "@type": "CreativeWork",
+            "about": {
+                "@id": "./"
+            },
+            "conformsTo": {
+                "@id": "https://w3id.org/ro/crate/1.1"
+            },
+            "license": {
+                "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+            }
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-images/blob/master/rights-statements-on-images.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-images/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "This notebook uses Trove's `rights` index to build a picture of which licences and rights statements are currently being applied to images, and by who.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-images/use-of-rights-statements/"
+            },
+            "name": "The use of standard licences and rights statements in Trove image records",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-images/blob/master/rights-statements-on-images.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "rights-on-images.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "conformsTo": {
+                "@id": "rights-on-images-schema.json"
+            },
+            "contentSize": 19589,
+            "dateModified": "2024-04-24",
+            "description": "This dataset lists the number of images with each rights statement from organisations contributing to Trove.",
+            "encodingFormat": "text/csv",
+            "license": {
+                "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+            },
+            "name": "rights-on-images.csv",
+            "sdDatePublished": "2024-04-24",
+            "size": 217,
+            "url": "https://github.com/GLAM-Workbench/trove-images-rights-data/raw/main/rights-on-images.csv"
+        },
+        {
+            "@id": "rights-on-out-of-copyright-photos.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "conformsTo": {
+                "@id": "rights-on-out-of-copyright-photos-schema.json"
+            },
+            "contentSize": 15649,
+            "dateModified": "2024-04-24",
+            "description": "This dataset lists the number of out-of-copyright photographs with each rights statement from organisations contributing to Trove.",
+            "encodingFormat": "text/csv",
+            "license": {
+                "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+            },
+            "name": "rights-on-out-of-copyright-photos.csv",
+            "sdDatePublished": "2024-04-24",
+            "size": 172,
+            "url": "https://github.com/GLAM-Workbench/trove-images-rights-data/raw/main/rights-on-out-of-copyright-photos.csv"
+        },
+        {
+            "@id": "https://orcid.org/0000-0001-7956-4498",
+            "@type": "Person",
+            "mainEntityOfPage": "https://timsherratt.au",
+            "name": "Sherratt, Tim",
+            "orcid": "https://orcid.org/0000-0001-7956-4498"
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-images/",
+            "@type": "Dataset",
+            "name": "trove-images",
+            "url": "https://github.com/GLAM-Workbench/trove-images/"
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-images-rights-data/archive/refs/heads/main.zip",
+            "@type": "DataDownload",
+            "name": "Download repository as zip",
+            "url": "https://github.com/GLAM-Workbench/trove-images-rights-data/archive/refs/heads/main.zip"
+        },
+        {
+            "@id": "https://spdx.org/licenses/MIT",
+            "@type": "CreativeWork",
+            "name": "MIT License",
+            "url": "https://spdx.org/licenses/MIT.html"
+        },
+        {
+            "@id": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "@type": "CreativeWork",
+            "name": "CC0 Public Domain Dedication",
+            "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        {
+            "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+            "@type": "CreativeWork",
+            "description": "The organization that has made the Item available reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.",
+            "name": "No Known Copyright",
+            "url": "http://rightsstatements.org/vocab/NKC/1.0/"
+        },
+        {
+            "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
+            "@type": "CreativeWork",
+            "description": "The copyright and related rights status of this Item has not been evaluated.",
+            "name": "Copyright Not Evaluated",
+            "url": "http://rightsstatements.org/vocab/CNE/1.0/"
+        },
+        {
+            "@id": "https://www.python.org/downloads/release/python-31012/",
+            "@type": [
+                "ComputerLanguage",
+                "SoftwareApplication"
+            ],
+            "name": "Python 3.10.12",
+            "url": "https://www.python.org/downloads/release/python-31012/",
+            "version": "3.10.12"
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-images/use-of-rights-statements/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "The use of standard licences and rights statements in Trove image records",
+            "url": "https://glam-workbench.net/trove-images/use-of-rights-statements/"
+        },
+        {
+            "@id": "#rights-statements-on-images_run_0",
+            "@type": "CreateAction",
+            "actionStatus": {
+                "@id": "http://schema.org/CompletedActionStatus"
+            },
+            "endDate": "2024-04-24",
+            "instrument": {
+                "@id": "https://github.com/GLAM-Workbench/trove-images/blob/master/rights-statements-on-images.ipynb"
+            },
+            "name": "Run of notebook: rights-statements-on-images.ipynb",
+            "result": [
+                {
+                    "@id": "rights-on-images.csv"
+                },
+                {
+                    "@id": "rights-on-out-of-copyright-photos.csv"
+                }
+            ]
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-images/trove-images-rights-data/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Trove images rights data",
+            "url": "https://glam-workbench.net/trove-images/trove-images-rights-data/"
+        },
+        {
+            "@id": "rights-on-images-schema.json",
+            "@type": [
+                "File"
+            ],
+            "conformsTo": {
+                "@id": "https://specs.frictionlessdata.io/table-schema/"
+            },
+            "encodingFormat": "application/json",
+            "name": "Frictionless Table Schema for rights-on-images.csv dataset",
+            "url": "https://github.com/GLAM-Workbench/trove-images-rights-data/raw/main/rights-on-images-schema.json"
+        },
+        {
+            "@id": "rights-on-out-of-copyright-photos-schema.json",
+            "@type": [
+                "File"
+            ],
+            "conformsTo": {
+                "@id": "https://specs.frictionlessdata.io/table-schema/"
+            },
+            "encodingFormat": "application/json",
+            "name": "Frictionless Table Schema for rights-on-out-of-copyright-photos.csv dataset",
+            "url": "https://github.com/GLAM-Workbench/trove-images-rights-data/raw/main/rights-on-out-of-copyright-photos-schema.json"
+        }
+    ]
+}

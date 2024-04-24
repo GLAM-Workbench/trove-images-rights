@@ -1,0 +1,79 @@
+{
+  "fields": [
+    {
+      "name": "id",
+      "type": "string",
+      "description": "contributor identifier"
+    },
+    {
+      "name": "full_name",
+      "type": "string",
+      "description": "contributor name"
+    },
+    {
+      "name": "Free/CC Public Domain",
+      "type": "integer", 
+      "description": "Number of images with CC Public Domain declaration"
+    },
+    {
+      "name": "Free/CC BY",
+      "type": "integer", 
+      "description": "Number of images with CC BY licence"
+    },
+    {
+      "name": "Free/CC0",
+      "type": "integer", 
+      "description": "Number of images with CC0 licence"
+    },
+    {
+      "name": "Free/RS NKC",
+      "type": "integer", 
+      "description": "Number of images with RS NKC rights statement"
+    },
+    {
+      "name": "Free with conditions/CC BY-SA",
+      "type": "integer", 
+      "description": "Number of images with CC BY-SA licence"
+    },
+    {
+      "name": "Free with conditions/CC BY-NC",
+      "type": "integer", 
+      "description": "Number of images with CC BY-NC licence"
+    },
+    {
+      "name": "Free with conditions/CC BY-NC-ND",
+      "type": "integer", 
+      "description": "Number of images with CC BY-NC-ND licence"
+    },
+    {
+      "name": "Free with conditions/CC BY-NC-SA",
+      "type": "integer", 
+      "description": "Number of images with CC BY-NC-SA licence"
+    },
+    {
+      "name": "Free with conditions/InC-EDU",
+      "type": "integer", 
+      "description": "Number of images with InC-EDU rights statement"
+    },
+    {
+      "name": "Restricted/RS InC",
+      "type": "integer", 
+      "description": "Number of images with RS InC rights statement"
+    },
+    {
+      "name": "Restricted/RS InC-RUU",
+      "type": "integer", 
+      "description": "Number of images with RS InC-RUU rights statement"
+    },
+    {
+      "name": "Restricted/RS CNE",
+      "type": "integer", 
+      "description": "Number of images with RS CNE rights statement"
+    },
+    {
+      "name": "Restricted/RS UND",
+      "type": "integer", 
+      "description": "Number of images with RS UND rights statement"
+    }
+  ]
+}
